@@ -25,7 +25,6 @@ function App() {
           </div>
         </div>
       </div>
-      <h1>Hello</h1>
     </div>
   );
 }
